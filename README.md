@@ -1,6 +1,7 @@
 # Git a Vagrant – první Linux server
 
 ## Moje řešení
+![Moje virtuální Linuxová laboratoř](./Images/tucnak-na-kopci.jpg)
 
 **Distribuce a verze:** Debian GNU/Linux 13 (trixie), kernel 6.12.48+deb13-amd64
 
